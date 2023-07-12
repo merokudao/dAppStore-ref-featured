@@ -1,0 +1,40 @@
+:root {
+    --font-sans: 'GeneralSans';
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+details > summary {
+    list-style: none;
+}
+
+details summary::marker {
+    display:none;
+}
+.slick-track {
+    display: flex !important;
+    gap: 24px;
+}
+
+.shimmer {
+    background: linear-gradient(90deg, rgba(32, 32, 35, 0.5) 0%, rgba(36, 35, 41, 0.135) 100%);
+    background-size: 400% 400%;
+    animation: Shimmer 2s ease infinite;
+}
+
+@keyframes Shimmer {
+    0%{background-position:0% 0%}
+    50%{background-position:100% 100%}
+    100%{background-position:0% 0%}
+}
+
+
+.icon {
+    color: #87868C;
+}
+
+.input .icon:hover ,.icon-filled {
+    color: white;
+    fill: white;
+}

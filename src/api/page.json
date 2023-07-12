@@ -1,0 +1,1165 @@
+{
+    "stories": [
+        {
+            "id": 296068,
+            "title": "Edtech acquisitions take the slow lane",
+            "slug": "edtech-acquisitions-rahul-garg-moglix-vecros-trestle-labs-codemate",
+            "type": "RICH",
+            "subtitle": "Cooling down from the pandemic high, when large companies exhibited a frantic rush to close acquisitions, the edtech sector is poised for a measured phase of M&As.",
+            "publishedAt": "2023-05-15T02:00:00.000Z",
+            "updatedAt": "2023-05-15T05:52:12.940Z",
+            "brand": {
+                "name": "YourStory",
+                "slug": "yourstory",
+                "locale": "en_GB",
+                "path": "/"
+            },
+            "metadata": {
+                "authors": [
+                    {
+                        "name": "Team YS",
+                        "username": "webmaster",
+                        "order": 0,
+                        "imageUrl": "https://images.yourstory.com/cs/static/default-ys-image.jpg",
+                        "designation": null,
+                        "path": "/author/webmaster"
+                    }
+                ],
+                "category": {
+                    "id": 1504,
+                    "name": "Daily Capsule",
+                    "slug": "daily-capsule",
+                    "path": "/category/daily-capsule"
+                },
+                "excerpt": "Cooling down from the pandemic high, when large companies exhibited a frantic rush to close acquisitions, the edtech sector is poised for a measured phase of M&As.",
+                "media": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Image8qjs-1684081991412.jpg",
+                "thumbnail": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Image8qjs-1684081991412.jpg",
+                "defaultThumbnail": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Image8qjs-1684081991412.jpg",
+                "brandSpotlight": null,
+                "removeAds": null,
+                "curatedCategories": [],
+                "sponsoredStory": null,
+                "isRegistrationRequired": false,
+                "timeToRead": 4,
+                "reactions": {
+                    "contentId": 296068,
+                    "commentCount": 0,
+                    "likeCount": 187,
+                    "dislikeCount": 0,
+                    "fbShareCount": 0,
+                    "twitterShareCount": 0,
+                    "linkedinShareCount": 0,
+                    "shareCount": 0
+                },
+                "articleTopics": [],
+                "richArticleTopics": [
+                    {
+                        "id": "991ecc33-663e-11eb-b571-b76e0f3e580d",
+                        "slug": "general-news",
+                        "name": "General News",
+                        "type": "RICH-ARTICLE-TOPIC",
+                        "order": 0
+                    }
+                ],
+                "tags": [
+                    {
+                        "name": "Daily Capsule",
+                        "slug": "daily-capsule",
+                        "order": 0,
+                        "path": "/tag/daily-capsule"
+                    },
+                    {
+                        "name": " Edtech in India",
+                        "slug": "edtech-in-indiaa",
+                        "order": 1,
+                        "path": "/tag/edtech-in-indiaa"
+                    },
+                    {
+                        "name": "M&A",
+                        "slug": "m&a",
+                        "order": 2,
+                        "path": "/tag/m&a"
+                    },
+                    {
+                        "name": "acquisition",
+                        "slug": "acquisition",
+                        "order": 3,
+                        "path": "/tag/acquisition"
+                    },
+                    {
+                        "name": "Moglix",
+                        "slug": "moglix",
+                        "order": 4,
+                        "path": "/tag/moglix"
+                    },
+                    {
+                        "name": "VECROS",
+                        "slug": "vecros",
+                        "order": 5,
+                        "path": "/tag/vecros"
+                    },
+                    {
+                        "name": "trestle labs",
+                        "slug": "trestle-labs",
+                        "order": 6,
+                        "path": "/tag/trestle-labs"
+                    },
+                    {
+                        "name": "codemate",
+                        "slug": "codemate",
+                        "order": 7,
+                        "path": "/tag/codemate"
+                    }
+                ],
+                "storySchemaType": "article story",
+                "AIGeneratedStory": "false",
+                "storyShortHeading": "Edtech acquisitions take the slow lane",
+                "analyticsData": {
+                    "alsoReadCount": 0,
+                    "imageCount": 3,
+                    "videoCount": 0,
+                    "companyConnectCount": 5
+                },
+                "companyBlots": [
+                    {
+                        "id": "5c355360-0b96-11ea-88ab-1be537af988f",
+                        "name": "Moglix"
+                    },
+                    {
+                        "id": "8de28dd0-8b0e-11eb-9bc6-6b4066622296",
+                        "name": "VECROS"
+                    },
+                    {
+                        "id": "a6424e70-f267-11ed-8c97-a1e9ec599bd5",
+                        "name": "CodeMate"
+                    },
+                    {
+                        "id": "2ec9fc50-e11a-11ea-a5fa-d16dbc8a0dc1",
+                        "name": "Trestle Labs"
+                    },
+                    {
+                        "id": "fca11710-4f13-11ea-9ca8-77300e99efd9",
+                        "name": "Tesla"
+                    }
+                ]
+            },
+            "snippets": null,
+            "trailers": null,
+            "path": "/2023/05/edtech-acquisitions-rahul-garg-moglix-vecros-trestle-labs-codemate",
+            "featured": false,
+            "mobilePostJson": [
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "Hello,\n\nOnline broker "
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "link": "https://yourstory.com/2023/05/ratan-tata-backed-upstox-breaks-even-in-fy23-tiger-global"
+                        },
+                        "data": "Upstox"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": " achieved breakeven in FY23, with overall revenue crossing Rs 1,000 crore. The company is aiming for a 10x jump in its customer base to reach 10 crore users in the next 5-6 years.\n\nIt reached the milestone even as many top management folks headed towards the exit. Senior executives "
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "italic": true
+                        },
+                        "data": "YourStory"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": " "
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "link": "https://yourstory.com/2023/05/upstox-online-brokerage-leadership-exits"
+                        },
+                        "data": "earlier spoke to"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": " flagged a lack of autonomy undermining the authority of leaders in running their departments, and critical changes in strategy.\n\nIn other good news, "
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "link": "https://yourstory.com/enterprise-story/2023/05/mcap-top-valued-firms-reliance-hindustan-unilever"
+                        },
+                        "data": "India Inc"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": " is reaching new highs.\n\nEight of the top 10 valued firms together added Rs 1.26 lakh crore in market valuation last week. The biggest gainers were Reliance Industries and Hindustan Unilever, accompanied by TCS, ICICI Bank, Bharati Airtel, HDFC, and others.\n\nNot just valuations, but even "
+                    }
+                },
+                {
+                    "contentType": "companyConnect",
+                    "value": {
+                        "id": "5c355360-0b96-11ea-88ab-1be537af988f",
+                        "slug": "moglix",
+                        "name": "Moglix"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "link": "https://yourstory.com/2023/05/strong-macro-outlook-good-earning-season-fpi-may-2023"
+                        },
+                        "data": "foreign investment"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": " is seeing an uptick. India received Rs 23,152 crore from FPIs owing to a strong domestic macro outlook and a good earning season.\n\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "link": "https://twitter.com/NASAPersevere/status/1656728565474557953"
+                        },
+                        "data": "ICYMI:"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": " There were once river rapids on Mars!\n\nNew images clicked by NASA's Perseverance rover show evidence of ancient rivers that were deep and turbulent.\n\nPerhaps Elon Musk's terraforming project can include river rafting too?\n\nIn today’s newsletter, we will talk about \n\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "list": "bullet"
+                        },
+                        "data": "Edtech acquisitions take the slow lane"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "list": "bullet"
+                        },
+                        "data": "Building B2B commerce solution"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "list": "bullet"
+                        },
+                        "data": "Innovating with technology"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\nHere’s your trivia for today: What is Superman's birth name?\n\n"
+                    }
+                },
+                {
+                    "contentType": "divider",
+                    "value": {}
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "header": 2
+                        },
+                        "data": "Edtech\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "header": 3
+                        },
+                        "data": "Edtech acquisitions take the slow lane\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "While India's edtech sector made headlines over the last two years with acquisitions reaching $1 billion, the M&A activity has since cooled down. Industry experts told "
+                    }
+                },
+                {
+                    "contentType": "companyConnect",
+                    "value": {
+                        "id": "5c355360-0b96-11ea-88ab-1be537af988f",
+                        "slug": "moglix",
+                        "name": "Moglix"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "italic": true
+                        },
+                        "data": "YourStory"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": " edtech firms—both unicorns and smaller companies—will take more calculated bets going forward as the market conditions continue to be unfavourable.\n\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "bold": true
+                        },
+                        "data": "Underlying reasons:"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "list": "bullet"
+                        },
+                        "data": "Siddharth Shah of Malpani Ventures notes that most of the capital raised in the last two years did not fund early-stage companies, which has left them with little gunpowder."
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "list": "bullet"
+                        },
+                        "data": "Narayanan Ramaswamy of KPMG notes that either larger players acquire smaller biz to increase capacity, or small players come together to compete with the giants."
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "list": "bullet"
+                        },
+                        "data": "With edtech companies trying to burn less cash, most of these deals are likely to be a mix of cash and stock. However, companies prefer to use their inflated equity."
+                    }
+                },
+                {
+                    "contentType": "companyConnect",
+                    "value": {
+                        "id": "5c355360-0b96-11ea-88ab-1be537af988f",
+                        "slug": "moglix",
+                        "name": "Moglix"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "image",
+                    "value": {
+                        "src": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/EDTechMnAGraphics-02-1684066433838.jpg",
+                        "caption": "<p>Credit: Nihar Apte</p>"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "divider",
+                    "value": {}
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "header": 2
+                        },
+                        "data": "B2B\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "header": 3
+                        },
+                        "data": "Building B2B commerce solution\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "Rahul Garg wanted to fix India's manufacturing issues. So, in 2015, he quit his job to start ﻿"
+                    }
+                },
+                {
+                    "contentType": "companyWidget",
+                    "value": {
+                        "id": "5c355360-0b96-11ea-88ab-1be537af988f",
+                        "name": "Moglix",
+                        "slug": "moglix",
+                        "logo": {
+                            "height": 300,
+                            "width": 300,
+                            "imageKey": "cs/images/companies/4484883d-5592-46d2-836a-790ecdd3c2eathumb-1640176703392.jpg",
+                            "url": "https://images.yourstory.com/cs/images/companies/4484883d-5592-46d2-836a-790ecdd3c2eathumb-1640176703392.jpg"
+                        },
+                        "subtitle": "Moglix is a B2B commerce company specialising in the procurement of B2B industrial products. It provides digital procurement and supply chain solutions across industries as well as making it tax compliant.",
+                        "foundingDate": "2015-06-01",
+                        "companyURL": "https://yourstory.com/companies/moglix",
+                        "companyCoreTeam": [
+                            {
+                                "name": "Rahul Garg"
+                            },
+                            {
+                                "name": "Sandeep Goel"
+                            },
+                            {
+                                "name": "Rahul Goel"
+                            }
+                        ],
+                        "sectors": [
+                            {
+                                "name": "E-Commerce",
+                                "slug": "e-commerce"
+                            },
+                            {
+                                "name": "Logistics",
+                                "slug": "logistics"
+                            },
+                            {
+                                "name": "Marketplace",
+                                "slug": "marketplace"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "—a simple, one-stop, completely digitised B2B platform that offered doorstep delivery to manufacturing sectors and infrastructure companies.\n\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "bold": true
+                        },
+                        "data": "B2B vs B2C:"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "list": "bullet"
+                        },
+                        "data": "B2B is a multi-decision maker for large organisations, which means the decisions you make and their implications create more of an impact on a professional level for people."
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "list": "bullet"
+                        },
+                        "data": "Moglix started with the right-to-play and right-to-win dimensions. Unlike B2C, B2B does not directly connect with the customers."
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "list": "bullet"
+                        },
+                        "data": "Garg explains the B2B TG is 35-65-year-olds. They are completely different from the usual 15-45-year-old B2C TG in their buying behaviour."
+                    }
+                },
+                {
+                    "contentType": "companyConnect",
+                    "value": {
+                        "id": "5c355360-0b96-11ea-88ab-1be537af988f",
+                        "slug": "moglix",
+                        "name": "Moglix"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "image",
+                    "value": {
+                        "src": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/RahulGargYourStoryCover-1683965934697.png"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "divider",
+                    "value": {}
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "header": 2
+                        },
+                        "data": "Interview\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "header": 3
+                        },
+                        "data": "Innovating with technology\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "italic": true
+                        },
+                        "data": "YourStory"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": " hosted VECROS, 3rditech, Codemate.ai, and Trestle Labs—startups in various stages of growth but each unique and innovative in their own ways. In an unfiltered chat with Shradha Sharma, Founder and CEO of "
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "italic": true
+                        },
+                        "data": "YourStory"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": ", the founders talk about the origin of their ideas and how they’ve built their ingenious products.\n\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "bold": true
+                        },
+                        "data": "Solving problems:"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n\n"
+                    }
+                },
+                {
+                    "contentType": "companyWidget",
+                    "value": {
+                        "id": "8de28dd0-8b0e-11eb-9bc6-6b4066622296",
+                        "name": "VECROS",
+                        "slug": "vecros",
+                        "logo": {
+                            "height": 2477,
+                            "width": 2477,
+                            "imageKey": "cs/images/companies/vecroslogofull2-1625921116045.png",
+                            "url": "https://images.yourstory.com/cs/images/companies/vecroslogofull2-1625921116045.png"
+                        },
+                        "subtitle": "VECROS is a robotics company which provides industrial inspections at scale using state-of-the-art computer vision and autonomous systems.",
+                        "foundingDate": "2018-10-12",
+                        "companyURL": "https://yourstory.com/companies/vecros",
+                        "companyCoreTeam": [
+                            {
+                                "name": "Besta Prem Sai"
+                            },
+                            {
+                                "name": "Rajeshree Deotalu"
+                            },
+                            {
+                                "name": "Deepak Kumar"
+                            }
+                        ],
+                        "sectors": [
+                            {
+                                "name": "Aerospace & Defense",
+                                "slug": "aerospace-defense"
+                            },
+                            {
+                                "name": "Developer Tools",
+                                "slug": "developer-tools"
+                            },
+                            {
+                                "name": "Enterprise Tech",
+                                "slug": "enterprise-tech"
+                            },
+                            {
+                                "name": "Hardware",
+                                "slug": "hardware"
+                            },
+                            {
+                                "name": "Robotics",
+                                "slug": "robotics"
+                            },
+                            {
+                                "name": "DeepTech",
+                                "slug": "deeptech"
+                            },
+                            {
+                                "name": "Machine Learning",
+                                "slug": "machine-learning"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "list": "bullet"
+                        },
+                        "data": " trains people to operate drones. Its drones can be used for real-time inspection and monitoring purposes, and can be operated remotely."
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "companyWidget",
+                    "value": {
+                        "id": "a6424e70-f267-11ed-8c97-a1e9ec599bd5",
+                        "name": "CodeMate",
+                        "slug": "codemate",
+                        "logo": {
+                            "height": 300,
+                            "width": 300,
+                            "imageKey": "cs/images/companies/1672750370685-1684130288391.jpg",
+                            "url": "https://images.yourstory.com/cs/images/companies/1672750370685-1684130288391.jpg"
+                        },
+                        "subtitle": "The fastest way to write error-free code.",
+                        "foundingDate": "2022-01-01",
+                        "companyURL": "https://yourstory.com/companies/codemate",
+                        "companyCoreTeam": [
+                            {
+                                "name": "Ayush Singhal"
+                            }
+                        ],
+                        "sectors": [
+                            {
+                                "name": "Software",
+                                "slug": "software"
+                            },
+                            {
+                                "name": "Technology",
+                                "slug": "technology"
+                            },
+                            {
+                                "name": "Services",
+                                "slug": "services"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "list": "bullet"
+                        },
+                        "data": " is an auto-correcting tool for programmers which fixes errors as they type out the code. "
+                    }
+                },
+                {
+                    "contentType": "companyConnect",
+                    "value": {
+                        "id": "5c355360-0b96-11ea-88ab-1be537af988f",
+                        "slug": "moglix",
+                        "name": "Moglix"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "companyWidget",
+                    "value": {
+                        "id": "2ec9fc50-e11a-11ea-a5fa-d16dbc8a0dc1",
+                        "name": "Trestle Labs",
+                        "slug": "trestle-labs",
+                        "logo": {
+                            "height": 500,
+                            "width": 500,
+                            "imageKey": "cs/images/companies/TrestleLabs-logo-1597731315757.jpg",
+                            "url": "https://images.yourstory.com/cs/images/companies/TrestleLabs-logo-1597731315757.jpg"
+                        },
+                        "subtitle": "Trestle Labs helps visually-impaired community by providing real-time access to printed, handwritten and digital content through audio across multiple Indian and foreign languages.",
+                        "foundingDate": "2017-11-30",
+                        "companyURL": "https://yourstory.com/companies/trestle-labs",
+                        "companyCoreTeam": [
+                            {
+                                "name": "Akshita Sachdeva"
+                            },
+                            {
+                                "name": "Abhishek Baghel"
+                            },
+                            {
+                                "name": "Bonny Dave"
+                            }
+                        ],
+                        "sectors": [
+                            {
+                                "name": "Content",
+                                "slug": "content"
+                            },
+                            {
+                                "name": "Technology",
+                                "slug": "technology"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "list": "bullet"
+                        },
+                        "data": " enables blind and visually-impaired people to access any kind of content, be it printed, handwritten or digital."
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "image",
+                    "value": {
+                        "src": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Image52jj-1682156755020.jpg"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "divider",
+                    "value": {}
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "header": 2
+                        },
+                        "data": "News & updates\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "link": "https://www.channelnewsasia.com/business/samsung-elec-tesla-heads-meet-discuss-cooperation-high-tech-3487586",
+                            "list": "bullet"
+                        },
+                        "data": "Joint action:"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": " Samsung Electronics Executive Chairman Jay Y Lee met with "
+                    }
+                },
+                {
+                    "contentType": "companyWidget",
+                    "value": {
+                        "id": "fca11710-4f13-11ea-9ca8-77300e99efd9",
+                        "name": "Tesla",
+                        "slug": "tesla",
+                        "logo": {
+                            "height": 550,
+                            "width": 650,
+                            "imageKey": "cs/images/companies/Teslalogo-1581675784884.jpg",
+                            "url": "https://images.yourstory.com/cs/images/companies/Teslalogo-1581675784884.jpg"
+                        },
+                        "subtitle": "Tesla Motors specializes in developing a full range of electric vehicles.",
+                        "foundingDate": "2003-07-01",
+                        "companyURL": "https://yourstory.com/companies/tesla",
+                        "companyCoreTeam": [
+                            {
+                                "name": "Elon Reeve Musk"
+                            }
+                        ],
+                        "sectors": [
+                            {
+                                "name": "Mobility / Transportation",
+                                "slug": "mobility-transportation"
+                            },
+                            {
+                                "name": "Technology",
+                                "slug": "technology"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": " CEO Elon Musk last week to discuss ways to cooperate in future high-tech industries, Samsung said. The two companies are seeking to cooperate in the development of IT-related technologies, such as semiconductors for autonomous vehicles."
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "link": "https://www.bloomberg.com/news/articles/2023-05-14/argentina-to-boost-rates-by-600-basis-points-as-inflation-soars#xj4y7vzkg",
+                            "list": "bullet"
+                        },
+                        "data": "Out of control:"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": " Argentina is preparing a set of emergency measures, including raising its key interest rate by 600 basis points to 97% on Monday, as inflation spirals out of control in the run-up to presidential elections, according to officials at the Economy Ministry and the central bank."
+                    }
+                },
+                {
+                    "contentType": "companyConnect",
+                    "value": {
+                        "id": "5c355360-0b96-11ea-88ab-1be537af988f",
+                        "slug": "moglix",
+                        "name": "Moglix"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "link": "https://www.smithsonianmag.com/smart-news/researchers-reveal-the-pangenome-a-more-diverse-look-at-human-dna-180982164/",
+                            "list": "bullet"
+                        },
+                        "data": "Genetic diversity:"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": " Scientists have released a new-and-improved edition of the human genome that better captures the diversity of human genetics. Called a “pangenome,” this map of genetic code represents people of various ethnic backgrounds."
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n"
+                    }
+                },
+                {
+                    "contentType": "divider",
+                    "value": {}
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "italic": true
+                        },
+                        "data": "What is Superman's birth name?"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n\nAnswer: Kal-El. On his home planet of Krypton, it means \"child of the stars\".\n\n"
+                    }
+                },
+                {
+                    "contentType": "divider",
+                    "value": {}
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "We would love to hear from you! To let us know what you liked and disliked about our newsletter, please mail "
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "link": "mailto:nslfeedback@yourstory.com"
+                        },
+                        "data": "nslfeedback@yourstory.com"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": ". \n\n"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "italic": true
+                        },
+                        "data": "If you don’t already get this newsletter in your inbox, "
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "link": "https://yourstory.com/newsletters",
+                            "italic": true
+                        },
+                        "data": "sign up here"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "italic": true
+                        },
+                        "data": ". For past editions of the YourStory Buzz, you can check our "
+                    }
+                },
+                {
+                    "contentType": "companyConnect",
+                    "value": {
+                        "id": "5c355360-0b96-11ea-88ab-1be537af988f",
+                        "slug": "moglix",
+                        "name": "Moglix"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "link": "https://yourstory.com/search?category=Daily%20Capsule",
+                            "italic": true
+                        },
+                        "data": "Daily Capsule page here"
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {
+                            "italic": true
+                        },
+                        "data": ". "
+                    }
+                },
+                {
+                    "contentType": "text",
+                    "value": {
+                        "formats": {},
+                        "data": "\n\n"
+                    }
+                },
+                {
+                    "contentType": "companyConnect",
+                    "value": {
+                        "id": "5c355360-0b96-11ea-88ab-1be537af988f",
+                        "slug": "moglix",
+                        "name": "Moglix"
+                    }
+                }
+            ],
+            "timeLapsed": "15th May 2023",
+            "publishedDate": "May 15, 2023"
+        }
+    ],
+    "category": {
+        "id": 1504,
+        "name": "Daily Capsule",
+        "slug": "daily-capsule",
+        "locale": "en_GB",
+        "path": "/category/daily-capsule",
+        "brand": {
+            "id": 2,
+            "name": "YourStory",
+            "slug": "yourstory",
+            "locale": "en_GB",
+            "internal": true
+        }
+    }
+}
