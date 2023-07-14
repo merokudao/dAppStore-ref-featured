@@ -1,0 +1,135 @@
+[
+  {
+      "listDate": "2023-06-12",
+      "images": {
+          "logo": "https://bafybeicackqovri72cuhffensu7h34x57r6xjj2ooazw7trc7ford7zeyi.ipfs.w3s.link/Biconomy%203d%20Logo.png",
+          "banner": "https://bafybeidfg45b4woxxnbiu34pckwinudlxnnzjsjxv37jwjdfj7ix5mzlvy.ipfs.w3s.link/Screen%20Shot%202023-06-13%20at%205.24.39%20PM.png",
+          "screenshots": [
+              "https://bafybeie4nxjjsjsuxsvf7epxwa6i7fckbudrqgy6e6iomlhisehpnor4iq.ipfs.dweb.link/screenshots.png"
+          ]
+      },
+      "subCategory": "defi",
+      "chains": [137],
+      "dappId": "aaswap",
+      "description": "This is a demo of a potential integration of the Biconomy SDK into the Uniswap V3 Protocol. Uniswap is a protocol for automated token exchange on Ethereum. Designed with simplicity in mind, the Uniswap protocol provides an interface for seamless exchange of ERC20 tokens on Ethereum. By eliminating unnecessary forms of rent extraction and middlemen it allows faster, more efficient exchange. Where it makes tradeoffs, decentralization, censorship resistance, and security are prioritized.",
+      "appUrl": "https://aaswap.vercel.app/",
+      "language": [
+          "en"
+      ],
+      "isForMatureAudience": false,
+      "availableOnPlatform": [
+          "web"
+      ],
+      "isSelfModerated": true,
+      "downloadBaseUrls": [
+          {
+              "version": "unknown",
+              "url": "https://aaswap.vercel.app/",
+              "platform": "web"
+          }
+      ],
+      "isListed": true,
+      "minAge": 13,
+      "name": "AA Uniswap V3",
+      "minted": false,
+      "metrics": {
+          "visits": 1,
+          "downloads": 0,
+          "dappId": "aaswap.app",
+          "rating": 5,
+          "ratingsCount": 1,
+          "installs": 0,
+          "uninstalls": 0
+      },
+      "category": "account abstraction"
+  },
+  {
+    "listDate": "2023-06-12",
+    "images": {
+        "logo": "https://bafybeicackqovri72cuhffensu7h34x57r6xjj2ooazw7trc7ford7zeyi.ipfs.w3s.link/Biconomy%203d%20Logo.png",
+        "banner": "https://bafybeifwx2fgs5kcav4on3cvw6za7bdazhhmu24znzb4aobwzckly6l7dq.ipfs.w3s.link/Biconomy_NFTGasless_3May.png",
+        "screenshots": [
+            "https://bafybeie4nxjjsjsuxsvf7epxwa6i7fckbudrqgy6e6iomlhisehpnor4iq.ipfs.dweb.link/screenshots.png"
+        ]
+    },
+    "subCategory": "nft",
+    "chains": [137],
+    "dappId": "aamint",
+    "description": "An onboarding demo to showcase the power of Account Abstraction and how it can bring new non web3 native user to your communites by helping them mint an NFT without having a wallet, and without having any tokens needed for gas.",
+    "appUrl": "https://aanft.vercel.app/",
+    "language": [
+        "en"
+    ],
+    "isForMatureAudience": false,
+    "availableOnPlatform": [
+        "web"
+    ],
+    "isSelfModerated": true,
+    "downloadBaseUrls": [
+        {
+            "version": "unknown",
+            "url": "https://aanft.vercel.app/",
+            "platform": "web"
+        }
+    ],
+    "isListed": true,
+    "minAge": 13,
+    "name": "AA NFT",
+    "minted": false,
+    "metrics": {
+        "visits": 1,
+        "downloads": 0,
+        "dappId": "aanft",
+        "rating": 5,
+        "ratingsCount": 1,
+        "installs": 0,
+        "uninstalls": 0
+    },
+    "category": "account abstraction"
+},
+{
+  "listDate": "2023-06-13",
+  "images": {
+      "logo": "https://bafybeih6abrott3zcl3qvgeyycji2bpynkrskxj5w2dsgt2htubxcfvi6e.ipfs.w3s.link/obvious.png",
+      "banner": "https://bafybeig55be6dkzmrm5a5bs5y4ginbgvijivlx3ftoqoo773pi4s4cgife.ipfs.w3s.link/obviouswallet.png",
+      "screenshots": [
+          "https://bafybeie4nxjjsjsuxsvf7epxwa6i7fckbudrqgy6e6iomlhisehpnor4iq.ipfs.dweb.link/screenshots.png"
+      ]
+  },
+  "subCategory": "wallets",
+  "chains": [137],
+  "dappId": "obvious",
+  "description": "Obvious is a self-custody wallet that never takes control of your keys. Keys are stored locally on your device, encrypted by your biometrics. Features such as verified contracts, connected wallets, spam token filters, and human-readable transactions further ensure a secure and seamless experience for you.",
+  "appUrl": "https://www.obvious.technology/",
+  "language": [
+      "en"
+  ],
+  "isForMatureAudience": false,
+  "availableOnPlatform": [
+      "web"
+  ],
+  "isSelfModerated": true,
+  "downloadBaseUrls": [
+      {
+          "version": "unknown",
+          "url": "https://www.obvious.technology/",
+          "platform": "web"
+      }
+  ],
+  "isListed": true,
+  "minAge": 13,
+  "name": "Obvious Wallet",
+  "minted": false,
+  "metrics": {
+      "visits": 1,
+      "downloads": 0,
+      "dappId": "obvious",
+      "rating": 5,
+      "ratingsCount": 1,
+      "installs": 0,
+      "uninstalls": 0
+  },
+  "category": "account abstraction"
+}
+  
+]
